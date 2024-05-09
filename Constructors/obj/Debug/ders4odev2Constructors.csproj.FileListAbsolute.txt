@@ -1,0 +1,7 @@
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Constructors\bin\Debug\Constructors.exe
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Constructors\bin\Debug\Constructors.pdb
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Constructors\obj\Debug\ders4odev2Constructors.csproj.AssemblyReference.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Constructors\obj\Debug\ders4odev2Constructors.csproj.CoreCompileInputs.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Constructors\obj\Debug\Constructors.exe
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Constructors\obj\Debug\Constructors.pdb
