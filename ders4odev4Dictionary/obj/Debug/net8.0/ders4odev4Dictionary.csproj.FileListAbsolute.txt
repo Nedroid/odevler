@@ -1,0 +1,15 @@
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\bin\Debug\net8.0\ders4odev4Dictionary.exe
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\bin\Debug\net8.0\ders4odev4Dictionary.deps.json
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\bin\Debug\net8.0\ders4odev4Dictionary.runtimeconfig.json
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\bin\Debug\net8.0\ders4odev4Dictionary.dll
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\bin\Debug\net8.0\ders4odev4Dictionary.pdb
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\ders4odev4Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\ders4odev4Dictionary.AssemblyInfoInputs.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\ders4odev4Dictionary.AssemblyInfo.cs
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\ders4odev4Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\ders4odev4Dictionary.sourcelink.json
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\ders4odev4Dictionary.dll
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\refint\ders4odev4Dictionary.dll
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\ders4odev4Dictionary.pdb
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\ders4odev4Dictionary.genruntimeconfig.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev4Dictionary\obj\Debug\net8.0\ref\ders4odev4Dictionary.dll
