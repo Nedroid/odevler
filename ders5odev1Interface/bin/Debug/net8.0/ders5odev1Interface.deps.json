@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ders5odev1Interface/1.0.0": {
+        "runtime": {
+          "ders5odev1Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ders5odev1Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

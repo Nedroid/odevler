@@ -1,0 +1,15 @@
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\bin\Debug\net8.0\ders5odev1Recap.exe
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\bin\Debug\net8.0\ders5odev1Recap.deps.json
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\bin\Debug\net8.0\ders5odev1Recap.runtimeconfig.json
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\bin\Debug\net8.0\ders5odev1Recap.dll
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\bin\Debug\net8.0\ders5odev1Recap.pdb
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\ders5odev1Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\ders5odev1Recap.AssemblyInfoInputs.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\ders5odev1Recap.AssemblyInfo.cs
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\ders5odev1Recap.csproj.CoreCompileInputs.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\ders5odev1Recap.sourcelink.json
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\ders5odev1Recap.dll
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\refint\ders5odev1Recap.dll
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\ders5odev1Recap.pdb
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\ders5odev1Recap.genruntimeconfig.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev1Recap\obj\Debug\net8.0\ref\ders5odev1Recap.dll

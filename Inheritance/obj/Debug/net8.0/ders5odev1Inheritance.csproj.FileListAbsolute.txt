@@ -1,0 +1,15 @@
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\bin\Debug\net8.0\ders5odev1Inheritance.exe
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\bin\Debug\net8.0\ders5odev1Inheritance.deps.json
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\bin\Debug\net8.0\ders5odev1Inheritance.runtimeconfig.json
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\bin\Debug\net8.0\ders5odev1Inheritance.dll
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\bin\Debug\net8.0\ders5odev1Inheritance.pdb
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\ders5odev1Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\ders5odev1Inheritance.AssemblyInfoInputs.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\ders5odev1Inheritance.AssemblyInfo.cs
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\ders5odev1Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\ders5odev1Inheritance.sourcelink.json
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\ders5odev1Inheritance.dll
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\refint\ders5odev1Inheritance.dll
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\ders5odev1Inheritance.pdb
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\ders5odev1Inheritance.genruntimeconfig.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\Inheritance\obj\Debug\net8.0\ref\ders5odev1Inheritance.dll
