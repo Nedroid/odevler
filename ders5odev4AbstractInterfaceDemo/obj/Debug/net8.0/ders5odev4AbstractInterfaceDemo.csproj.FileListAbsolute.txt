@@ -1,0 +1,2 @@
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev4AbstractInterfaceDemo\obj\Debug\net8.0\ders5odev4AbstractInterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders5odev4AbstractInterfaceDemo\obj\Debug\net8.0\ders5odev4AbstractInterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
