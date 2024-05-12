@@ -11,11 +11,12 @@ namespace ders5odev4AbstractInterfaceDemo.Adapters
 {
     public class MernisServiceAdapter : ICustomerCheckService
     {
-        public bool CheckIfRealPerson(Customer customer)
+        public async Task<bool> CheckIfRealPerson(Customer customer)
         {
-            KPSPublicSoapClient client = new KPSPublicSoapClient();
-            return client.TCKimlikNoDogrulaAsync(customer.NationalityId,
+            KPSPublicSoapClient client = new KPSPublicSoapClient(KPSPublicSoapClient.EndpointConfiguration.KPSPublicSoap);
+            var result = await client.TCKimlikNoDogrulaAsync(customer.NationalityId,
                 customer.FirstName, customer.LastName, customer.DateofBirth);
+            return result.Body.TCKimlikNoDogrulaResult;
         }
     }
 }

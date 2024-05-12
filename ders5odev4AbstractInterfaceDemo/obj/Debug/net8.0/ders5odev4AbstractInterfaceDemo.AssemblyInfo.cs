@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ders5odev4AbstractInterfaceDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63e0dd40ca2fc3f54ac5caedef3c9cc0892f68e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a90af1d8a880f01314c501a87541b0eadc60d67a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ders5odev4AbstractInterfaceDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ders5odev4AbstractInterfaceDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

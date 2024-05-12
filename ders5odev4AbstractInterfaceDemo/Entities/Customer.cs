@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ders5odev4AbstractInterfaceDemo.Entities
 {
-    public class Customer:IEntitiy
+    public class Customer : IEntitiy
     {
         public int Id { get; set; }
         public string FirstName { get; set; }

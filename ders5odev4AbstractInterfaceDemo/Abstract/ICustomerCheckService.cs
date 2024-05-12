@@ -9,6 +9,6 @@ namespace ders5odev4AbstractInterfaceDemo.Abstract
 {
     public interface ICustomerCheckService
     {
-      public  bool CheckIfRealPerson(Customer customer);
+        public Task<bool> CheckIfRealPerson(Customer customer);
     }
 }

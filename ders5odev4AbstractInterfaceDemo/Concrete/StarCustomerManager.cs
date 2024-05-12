@@ -11,14 +11,14 @@ namespace ders5odev4AbstractInterfaceDemo.Concrete
     public class StarCustomerManager : BaseCustomerManager
     {
         private ICustomerCheckService _customerCheckService;
-        
+
         public StarCustomerManager(ICustomerCheckService customerCheckService)
         {
             _customerCheckService = customerCheckService;
         }
         public override void Save(Customer customer)
         {
-            if (_customerCheckService.CheckIfRealPerson(customer))
+            if (_customerCheckService.CheckIfRealPerson(customer).Result)
             {
                 base.Save(customer);
             }
@@ -28,7 +28,6 @@ namespace ders5odev4AbstractInterfaceDemo.Concrete
             }
         }
 
-        
+
     }
 }
- 
