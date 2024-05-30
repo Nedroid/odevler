@@ -1,7 +1,0 @@
-C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev1ReferansType\bin\Debug\ders4odev1ReferansType.exe.config
-C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev1ReferansType\bin\Debug\ders4odev1ReferansType.exe
-C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev1ReferansType\bin\Debug\ders4odev1ReferansType.pdb
-C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev1ReferansType\obj\Debug\ders4odev1ReferansType.csproj.AssemblyReference.cache
-C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev1ReferansType\obj\Debug\ders4odev1ReferansType.csproj.CoreCompileInputs.cache
-C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev1ReferansType\obj\Debug\ders4odev1ReferansType.exe
-C:\Users\krmnn\OneDrive\Masaüstü\nESE\c#EnginKodlamaIo\odevler\ders4odev1ReferansType\obj\Debug\ders4odev1ReferansType.pdb

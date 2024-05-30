@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odev6eCommerce", "odev6eCommerce\odev6eCommerce.csproj", "{0BE3B70B-4005-4683-8ED3-844142A8F159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev6eCommerce", "odev6eCommerce\odev6eCommerce.csproj", "{0BE3B70B-4005-4683-8ED3-844142A8F159}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ders5odev4AbstractInterfaceDemo", "ders5odev4AbstractInterfaceDemo\ders5odev4AbstractInterfaceDemo.csproj", "{2426FEFB-5F86-4F52-A966-69D3F04AE255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders5odev4AbstractInterface", "ders5odev4AbstractInterface\ders5odev4AbstractInterface.csproj", "{DF7AF480-E339-49A1-AB11-D7950464C5F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders5odev5GameProject", "ders5odev5GameProject\ders5odev5GameProject.csproj", "{CA9C6699-9557-474B-917D-F174B61EF7AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{0BE3B70B-4005-4683-8ED3-844142A8F159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BE3B70B-4005-4683-8ED3-844142A8F159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BE3B70B-4005-4683-8ED3-844142A8F159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2426FEFB-5F86-4F52-A966-69D3F04AE255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2426FEFB-5F86-4F52-A966-69D3F04AE255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2426FEFB-5F86-4F52-A966-69D3F04AE255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2426FEFB-5F86-4F52-A966-69D3F04AE255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7AF480-E339-49A1-AB11-D7950464C5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7AF480-E339-49A1-AB11-D7950464C5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7AF480-E339-49A1-AB11-D7950464C5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7AF480-E339-49A1-AB11-D7950464C5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9C6699-9557-474B-917D-F174B61EF7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9C6699-9557-474B-917D-F174B61EF7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9C6699-9557-474B-917D-F174B61EF7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9C6699-9557-474B-917D-F174B61EF7AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
