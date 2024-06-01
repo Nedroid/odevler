@@ -11,8 +11,9 @@ myCity.Add(5, "bursa");
 List<int> key=myCity.GetKeys();
 List<string>value=myCity.GetValues();
 
-for (int i = 0; i < key.Count; i++) 
+foreach (int i in key)
 {
-    Console.WriteLine("City="+key+"\n city number"+value);
+    foreach (string s in value)
+    Console.WriteLine("City="+i+"\n city number"+s);
 }
 Console.ReadLine();
