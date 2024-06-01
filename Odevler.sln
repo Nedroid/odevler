@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ders5odev4AbstractInterface
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders5odev4AbstractInterface", "ders5odev4AbstractInterface\ders5odev4AbstractInterface.csproj", "{DF7AF480-E339-49A1-AB11-D7950464C5F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders5odev5GameProject", "ders5odev5GameProject\ders5odev5GameProject.csproj", "{CA9C6699-9557-474B-917D-F174B61EF7AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ders5odev5GameProject", "ders5odev5GameProject\ders5odev5GameProject.csproj", "{CA9C6699-9557-474B-917D-F174B61EF7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders4odev5MyDictionary", "ders4odev5MyDictionary\ders4odev5MyDictionary.csproj", "{65CFBBA3-5133-41F0-9EE9-76DFFD5F4D7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CA9C6699-9557-474B-917D-F174B61EF7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA9C6699-9557-474B-917D-F174B61EF7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA9C6699-9557-474B-917D-F174B61EF7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CFBBA3-5133-41F0-9EE9-76DFFD5F4D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CFBBA3-5133-41F0-9EE9-76DFFD5F4D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CFBBA3-5133-41F0-9EE9-76DFFD5F4D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CFBBA3-5133-41F0-9EE9-76DFFD5F4D7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
