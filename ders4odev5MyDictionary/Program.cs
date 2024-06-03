@@ -13,7 +13,7 @@ List<string>value=myCity.GetValues();
 
 foreach (int i in key)
 {
-    foreach (string s in value)
-    Console.WriteLine("City="+i+"\n city number"+s);
+    
+    Console.WriteLine("City="+i+"\n city name="+ myCity.GetValueByKey(i));
 }
 Console.ReadLine();

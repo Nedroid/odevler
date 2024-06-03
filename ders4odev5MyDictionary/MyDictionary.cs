@@ -31,5 +31,14 @@ namespace ders4odev5MyDictionary
         public List<Key> GetKeys() { return keys; }
         public List<Value> GetValues() { return values; }
 
+        public Value GetValueByKey(Key key) 
+        {
+        var  index =keys.IndexOf(key);
+            if (index<0) 
+                throw new IndexOutOfRangeException();
+            return values[index];
+        
+        }
+
     }
 }
